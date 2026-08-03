@@ -24,7 +24,6 @@ Pick the file for your system:
 | --- | --- |
 | macOS (Intel or Apple Silicon) | `neko-darwin-universal.zip` |
 | Windows (64-bit, most common) | `neko-windows-amd64.exe` |
-| Windows (older 32-bit) | `neko-windows-386.exe` |
 | Windows (ARM) | `neko-windows-arm64.exe` |
 | Linux (Intel/AMD 64-bit) | `neko-linux-amd64.gz` |
 | Linux (ARM 64-bit) | `neko-linux-arm64.gz` |
